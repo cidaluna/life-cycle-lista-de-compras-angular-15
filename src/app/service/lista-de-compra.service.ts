@@ -9,20 +9,20 @@ export class ListaDeCompraService {
   private listaDeCompra: Item[] = [
     {
       "id": 1,
-      "nome": "Queijo prato",
-      "data": "Segunda-feira (31/10/2022) às 08:30",
+      "nome": "Sucrilhos",
+      "data": "Terça-feira (16/05/2023) às 08:30",
       "comprado": false
     },
     {
       "id": 2,
       "nome": "Leite integral",
-      "data": "Segunda-feira (31/10/2022) às 08:30",
+      "data": "Quarta-feira (17/05/2023) às 08:30",
       "comprado": false
     },
     {
       "id": 3,
       "nome": "Mamão papaia",
-      "data": "Segunda-feira (31/10/2022) às 08:30",
+      "data": "Quinta-feira (18/05/2023) às 08:30",
       "comprado": true
     },
   ]
