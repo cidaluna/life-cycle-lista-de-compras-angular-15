@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'life-cycle-lista-de-compras-angular-15';
+  title = 'app-lista-de-compras';
+
+  constructor() { }
 }
